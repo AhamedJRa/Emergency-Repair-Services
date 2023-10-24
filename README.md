@@ -58,7 +58,7 @@ Contact Form: A form for users to get in touch with us for assistance or inquiri
 Safety Tips and Guides: Helpful information for staying prepared during emergency situations.
 Responsive Design: The website is designed to work on various devices and screen sizes.
 
-How to Use:
+# How to Use:
 
 Clone the repository to your local machine.
 Open the HTML files in your web browser to view the website.
